@@ -1,6 +1,4 @@
-customtkinter==5.2.2
-python-barcode==0.15.1
-Pillow==11.3.0
-reportlab==4.2.2
-openpyxl==3.1.5
-pyinstaller==6.10.0
+python-barcode
+Pillow
+openpyxl
+reportlab
